@@ -14,6 +14,19 @@ You can access all Python .py files directly here:
 
 * [src/](src/)
 
+
+
+## Get the Book
+
+You can learn more about the book here:
+
+* [Gumroad](https://superfastpython.gumroad.com/l/pmj)
+* [Amazon](https://amzn.to/3Q4bNL0)
+* [GooglePlay](https://play.google.com/store/books/details?id=8yR-EAAAQBAJ)
+* [GoogleBooks](https://books.google.com.au/books/about?id=8yR-EAAAQBAJ)
+* [Goodreads](https://www.goodreads.com/book/show/61767717-python-multiprocessing-jump-start)
+
+
 ### Book Blurb
 
 > Unlock parallel Python programming (and run your code on all CPUs).
